@@ -1,0 +1,43 @@
+body{
+    background-image: url(Pic1.jpg);background-repeat: no-repeat;background-size: cover;
+}
+.container {
+    max-width: 400px;
+    margin-top: 10%;
+    padding: 20px;
+    border-radius: 15px;
+    background-color: #D2D4D1;
+}
+input{
+    background-color: #EFF1EE;border-radius: 10px;border: none;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.form-group input {
+    width: 100%;
+    padding: 5px;
+}
+
+.btn-calculate {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;border: none;
+    font-weight: bolder;
+    background-color: #D1A135;
+}
+
+.result {
+    margin-top: 20px;
+    font-weight: bolder;
+    background-color: #D1A135;padding: 10px;text-align: center;color: white;
+    border-radius: 10px;border: none;
+}
